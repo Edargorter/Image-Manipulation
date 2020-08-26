@@ -1,3 +1,4 @@
+#Escher GIF!!!!!!!!!
 from PIL import Image, ImageFilter, ImageEnhance
 from sys import argv
 
